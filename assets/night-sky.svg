@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">Welcome to Minhthanne16's little universe</title>
+  <desc id="desc">A mint moon and twinkling stars above a quiet night landscape.</desc>
+  <defs>
+    <linearGradient id="sky" x2="1" y2="1"><stop stop-color="#080f20"/><stop offset="1" stop-color="#12362f"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#7ee7c5" stop-opacity=".2"/><stop offset="1" stop-color="#7ee7c5" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .star { animation: twinkle 4s ease-in-out infinite alternate; }
+    .late { animation-delay: -2s; }
+    @keyframes twinkle { from { opacity: .25; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .star { animation: none; } }
+  </style>
+  <rect width="960" height="300" rx="24" fill="url(#sky)"/>
+  <circle cx="800" cy="95" r="155" fill="url(#halo)"/>
+  <g fill="#d7fff0">
+    <g class="star"><circle cx="80" cy="48" r="2"/><circle cx="340" cy="36" r="2"/><circle cx="605" cy="73" r="2.5"/><circle cx="882" cy="162" r="2"/><path d="M712 39v12m-6-6h12" stroke="#d7fff0"/></g>
+    <g class="star late"><circle cx="174" cy="91" r="1.5"/><circle cx="505" cy="46" r="2"/><circle cx="901" cy="44" r="2"/><path d="M652 153v14m-7-7h14" stroke="#d7fff0"/></g>
+  </g>
+  <path d="M822 51a44 44 0 1 0 24 75 40 40 0 0 1-24-75Z" fill="#b1f5d9"/>
+  <text x="64" y="112" fill="#7ee7c5" font-family="monospace" font-size="14" letter-spacing="4">A QUIET CORNER OF THE INTERNET</text>
+  <text x="60" y="175" fill="#f0fff8" font-family="Georgia, serif" font-size="52">Hello, I'm Minhthanne16.</text>
+  <text x="64" y="214" fill="#aac8bf" font-family="monospace" font-size="16">BOOKS / C# / SMALL EVERYDAY DISCOVERIES</text>
+  <path d="M0 269Q160 222 330 270T660 264T960 250V300H0Z" fill="#0b211f"/>
+  <path d="M0 285Q230 250 460 288T960 279V300H0Z" fill="#081817"/>
+</svg>
