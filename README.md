@@ -26,7 +26,11 @@ One contribution at a time.
 ## 🎧 On my headphones
 
 <!-- SPOTIFY:START -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3156svqpidhoop5pbyfn3qlr3moi&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=7ee7c5)](https://spotify-github-profile.kittinanx.com/api/view?uid=3156svqpidhoop5pbyfn3qlr3moi&redirect=true)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3156svqpidhoop5pbyfn3qlr3moi&amp;redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3156svqpidhoop5pbyfn3qlr3moi&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=0d1117&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color_cover=false&amp;bar_color=7ee7c5" alt="Spotify listening activity" />
+  </a>
+</p>
 <!-- SPOTIFY:END -->
 
 <div align="center">
