@@ -26,9 +26,7 @@ One contribution at a time.
 ## 🎧 On my headphones
 
 <!-- SPOTIFY:START -->
-Spotify chưa được kết nối. Sau khi chủ tài khoản cấp quyền, thẻ bài hát đang nghe sẽ xuất hiện tại đây.
-
-[Hướng dẫn kết nối Spotify](SETUP.md#spotify)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3156svqpidhoop5pbyfn3qlr3moi&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=7ee7c5)](https://spotify-github-profile.kittinanx.com/api/view?uid=3156svqpidhoop5pbyfn3qlr3moi&redirect=true)
 <!-- SPOTIFY:END -->
 
 <div align="center">
